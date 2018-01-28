@@ -1,4 +1,4 @@
-# Calculaora Web Service
+# Calculadora Web Service
 Web Service de uma calculadora para operações básicas.
 ### Detalhes da API
 A Calculadora Web Service possui as seguintes características:  
